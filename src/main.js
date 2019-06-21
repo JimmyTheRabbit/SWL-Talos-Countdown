@@ -56,7 +56,7 @@ var settings = {
   // Known occurance of a golem. Used to calculate all other golem times.
   known_golem_time: "2019-06-21T16:00:00+00:00",
   // Index in golems array for known golem
-  known_golem_index: 5,                            // Magma golem
+  known_golem_index: 1,                            // Magma golem
 
   // List of the golem names in their spawn sequence.
   golems: ["Magma", "Silver", "Frost", "Clay", "Technology",
